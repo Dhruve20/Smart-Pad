@@ -9,3 +9,6 @@ A hybrid notepad application made in python that combines classical notepad feat
 * pytesseract - pip install pytesseract
 
 ## Outputs
+<img src="/images/img1.JPG">
+<br>
+<img src="/images/img2.JPG">
