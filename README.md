@@ -5,7 +5,6 @@ A hybrid notepad application made in python that combines classical notepad feat
 ##  Libraries
 * gTTS (Google Text-to-Speech)  - pip install gTTS
 * SpeechRecognition - pip install SpeechRecognition
-* Pillow - pip install SpeechRecognition
 * pytesseract - pip install pytesseract
 
 ## Outputs
